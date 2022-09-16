@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Secador de Cabelo",
+      "price": 100,
+      "description": "Deixe suas madeixas secas e não durma de cabelo molhado",
+      "id": 1
+    },
+    {
+      "name": "Presilha",
+      "price": "2",
+      "description": "Prenda seus cabelos",
+      "id": 3
+    },
+    {
+      "name": "Tintura Roxa",
+      "price": "40",
+      "description": "Pinte suas madeixas",
+      "id": 4
+    },
+    {
+      "name": "Esmalte",
+      "price": "5",
+      "description": "Pinte suas unhas para festa",
+      "id": 5
+    },
+    {
+      "name": "Condicionador",
+      "price": "30",
+      "description": "Hidrate seus cabelos",
+      "id": 6
+    },
+    {
+      "name": "Shampoo",
+      "price": "40",
+      "description": "Limpe seus cabelos",
+      "id": 7
+    },
+    {
+      "name": "shampoo",
+      "price": "40",
+      "description": "limpe",
+      "id": 8
+    }
+  ]
+}
